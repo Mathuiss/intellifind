@@ -62,7 +62,7 @@ options:
 
 ```bash
 # To download
-wget <some url>
+wget https://raw.githubusercontent.com/Mathuiss/intellifind/main/intellifind.py
 chmod +x intellifind/intellifind.py
 
 # To install
