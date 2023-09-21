@@ -63,9 +63,9 @@ options:
 ```bash
 # To download
 wget https://raw.githubusercontent.com/Mathuiss/intellifind/main/intellifind.py
-chmod +x intellifind/intellifind.py
+chmod +x intellifind.py
 
 # To install
-sudo cp intellifind/intellifind.py /usr/bin/intellifind
+sudo cp intellifind.py /usr/bin/intellifind
 
 ```
