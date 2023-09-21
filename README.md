@@ -5,7 +5,7 @@ Intelligent directory enumerator. Searches startpage, the google proxy for domai
 
 ```bash
 # Intellifind finds files indexed by google.
-# It uses startpage as a proxy
+# It uses startpage as a proxy.
 
 # Find all pdf files on domain.com.
 intellifind domain.com
