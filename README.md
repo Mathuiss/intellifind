@@ -23,7 +23,7 @@ intellifind domain.com -f pdf -c 10
 intellifind domain.com -f pdf -c 10 -o ./data
 
 # We can also download the files directly.
-intellidind domain.com -f pdf -c 10 -o ./data --download
+intellifind domain.com -f pdf -c 10 -o ./data --download
 
 ```
 
